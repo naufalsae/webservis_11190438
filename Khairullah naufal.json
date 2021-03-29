@@ -1,0 +1,15 @@
+{
+	"took": 1602573034.277,
+	"code": 200,
+	"message": "Response succesfully",
+	"data": [
+		{
+			"CustomerID": "NAUFAL",
+			"CompanyName": "Khairullah Naufal",
+			"ContactName": "Naufalsae",
+		    "ContactTitle": "MAHASISWA"
+		    "Adress": "Bantul",
+		    "City": "Yogyakarta",
+
+		}
+}
